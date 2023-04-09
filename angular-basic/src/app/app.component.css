@@ -1,0 +1,14 @@
+.examplecard {
+    color: white;
+    background-color: black;
+    margin: 15px auto;
+    width: 350px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.button {
+    background-color: white;
+    border-radius: 10px;
+}
